@@ -6,15 +6,13 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +83,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 12:42:17 UTC
+ Last Updated on 23/07/2025 13:38:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
