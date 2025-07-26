@@ -14,6 +14,8 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
+> 🏆 64 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -85,7 +87,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 17:19:00 UTC
+ Last Updated on 26/07/2025 18:27:16 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
