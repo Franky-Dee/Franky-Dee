@@ -6,7 +6,7 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,7 +14,7 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,18 +49,18 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Maseru
 
 💬 Programming Languages: 
-Python                   17 hrs 50 mins      █████████████████████████   98.42 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Python                   15 hrs 8 mins       █████████████████████████   99.41 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rush_ml_v2               17 hrs 34 mins      ████████████████████████░   96.90 % 
-Kero                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+rush_ml_v2               14 hrs 45 mins      ████████████████████████░   96.88 % 
+Kero                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Windows                  18 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 22:18:32 UTC
+ Last Updated on 12/08/2025 23:18:58 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
