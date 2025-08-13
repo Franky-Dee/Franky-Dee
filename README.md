@@ -6,7 +6,7 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,18 +49,18 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Maseru
 
 💬 Programming Languages: 
-Python                   15 hrs 8 mins       █████████████████████████   99.41 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   13 hrs 30 mins      █████████████████████████   99.27 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rush_ml_v2               14 hrs 45 mins      ████████████████████████░   96.88 % 
-Kero                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+rush_ml_v2               12 hrs 48 mins      ████████████████████████░   94.07 % 
+Kero                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-Windows                  15 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 22:19:40 UTC
+ Last Updated on 13/08/2025 23:18:42 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
