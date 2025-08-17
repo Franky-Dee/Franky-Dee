@@ -83,7 +83,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 23:17:23 UTC
+ Last Updated on 17/08/2025 01:44:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
