@@ -14,6 +14,8 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
+> 🏆 96 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -86,7 +88,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 23:06:05 UTC
+ Last Updated on 21/11/2025 00:22:08 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
