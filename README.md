@@ -49,24 +49,16 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████░░░░░░░░░░░░   52.08 % 
-Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Text                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   52 mins             █████████████████████████   99.49 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-revenue-pulse            29 mins             ██████████████░░░░░░░░░░░   55.15 % 
-rush_ml_v2               12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Unknown Project          11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      52 mins             █████████████████████████   99.49 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +78,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2025 22:06:10 UTC
+ Last Updated on 29/12/2025 23:06:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
