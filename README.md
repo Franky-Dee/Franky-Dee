@@ -6,6 +6,8 @@
  
 # 📊
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -20,6 +22,45 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                146 commits         ██████████░░░░░░░░░░░░░░░   39.35 % 
+🌆 Daytime                119 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+🌃 Evening                80 commits          █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Tuesday                  89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Thursday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -37,7 +78,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 13:13:27 UTC
+ Last Updated on 03/01/2026 14:05:40 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
