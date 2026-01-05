@@ -6,7 +6,7 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,16 +49,24 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 6 mins        ████████████████████████░   97.54 % 
+neo-tree                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 22 mins        ████████████████░░░░░░░░░   63.60 % 
+VS Code                  47 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rush_ml_v2               2 hrs 3 mins        ████████████████████████░   95.56 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+wiki                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Personal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 22 mins        ████████████████░░░░░░░░░   63.60 % 
+Windows                  47 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +86,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 22:06:30 UTC
+ Last Updated on 05/01/2026 23:06:09 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
