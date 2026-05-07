@@ -6,7 +6,7 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,16 +49,16 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        █████████████████████████   100.00 % 
+Python                   33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 22 mins        █████████████████████████   100.00 % 
+Neovim                   33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rush_ml_v2               1 hr 22 mins        █████████████████████████   100.00 % 
+rush_ml_v2               33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 22 mins        █████████████████████████   100.00 % 
+WSL                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +78,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 22:25:53 UTC
+ Last Updated on 07/05/2026 23:21:53 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
