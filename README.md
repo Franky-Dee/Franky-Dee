@@ -6,8 +6,6 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -22,45 +20,6 @@
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-🌆 Daytime                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-🌃 Evening                610 commits         ████████████░░░░░░░░░░░░░   47.81 % 
-🌙 Night                  283 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   305 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-Tuesday                  196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Wednesday                192 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 260 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Friday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Saturday                 98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Sunday                   66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-Python                   50 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Neovim                   50 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-rush_ml_v2               50 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      50 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -78,7 +37,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 21:29:45 UTC
+ Last Updated on 14/05/2026 22:27:27 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
