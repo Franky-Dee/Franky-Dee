@@ -6,7 +6,7 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2027%20mins-blue?style=flat)
 
@@ -51,16 +51,18 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 29 mins             ████████████████░░░░░░░░░   64.14 % 
+TypeScript               16 mins             █████████░░░░░░░░░░░░░░░░   35.78 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +88,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 22:07:07 UTC
+ Last Updated on 25/08/2026 23:08:28 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
