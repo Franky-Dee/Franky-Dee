@@ -6,9 +6,9 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,22 +51,42 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 25 mins             █████████████░░░░░░░░░░░░   53.70 % 
+Other                    20 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   26 mins             ██████████████░░░░░░░░░░░   57.22 % 
+Claude Code              20 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Inferred-Edge-Platform   26 mins             ██████████████░░░░░░░░░░░   57.22 % 
+ie_technical             20 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (42.78%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 87,114 Input Tokens, 30,458 Output Tokens
+
+💵 $2.68 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 2,198 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +106,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 22:10:43 UTC
+ Last Updated on 08/09/2026 23:11:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
