@@ -6,9 +6,9 @@
  
 # 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,42 +51,46 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████░░░░░░░░░░░░   53.70 % 
-Other                    20 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 4 hrs 1 min         █████████████░░░░░░░░░░░░   53.99 % 
+Other                    2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+TypeScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Mermaid                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   26 mins             ██████████████░░░░░░░░░░░   57.22 % 
-Claude Code              20 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
+Claude Code              6 hrs 54 mins       ███████████████████████░░   92.61 % 
+Neovim                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🐱‍💻 Projects: 
-Inferred-Edge-Platform   26 mins             ██████████████░░░░░░░░░░░   57.22 % 
-ie_technical             20 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
+Inferred-Edge-Platform   5 hrs 25 mins       ██████████████████░░░░░░░   72.75 % 
+ie_technical             2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
 
 💻 Operating System: 
-WSL                      46 mins             █████████████████████████   100.00 % 
+WSL                      7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (42.78%)
+⏱ AI Coding Time: 6 hrs 56 mins (93.13%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 3,311 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 87,114 Input Tokens, 30,458 Output Tokens
+🔤 2,313,745 Input Tokens, 576,148 Output Tokens
 
-💵 $2.68 Estimated AI Cost This Week
+💵 $104.83 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 57 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,807 lines         ██████████████░░░░░░░░░░░   54.41 % 
+Opus                     829 lines           ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Haiku                    685 lines           █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,198 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,771 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +110,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 22:10:23 UTC
+ Last Updated on 09/09/2026 23:10:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
