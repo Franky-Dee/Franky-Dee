@@ -51,36 +51,36 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 4 hrs 1 min         █████████████░░░░░░░░░░░░   53.99 % 
-Other                    2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-TypeScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Mermaid                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 3 hrs 36 mins       ██████████████░░░░░░░░░░░   54.02 % 
+Other                    1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+TypeScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Mermaid                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 54 mins       ███████████████████████░░   92.61 % 
-Neovim                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Claude Code              6 hrs 33 mins       █████████████████████████   98.44 % 
+Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-Inferred-Edge-Platform   5 hrs 25 mins       ██████████████████░░░░░░░   72.75 % 
-ie_technical             2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Inferred-Edge-Platform   4 hrs 58 mins       ███████████████████░░░░░░   74.57 % 
+ie_technical             1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 
 💻 Operating System: 
-WSL                      7 hrs 27 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 56 mins (93.13%)
+⏱ AI Coding Time: 6 hrs 36 mins (99.02%)
 
 ✍️ 3,311 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,313,745 Input Tokens, 576,148 Output Tokens
+🔤 2,226,631 Input Tokens, 545,690 Output Tokens
 
-💵 $104.83 Estimated AI Cost This Week
+💵 $102.14 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 57 AI Prompts
+🧠 1 AI Sessions, 53 AI Prompts
 
 Sonnet                   1,807 lines         ██████████████░░░░░░░░░░░   54.41 % 
 Opus                     829 lines           ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
@@ -88,8 +88,8 @@ Haiku                    685 lines           █████░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,771 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
+📚 Verbose Prompter — average 6,040 characters per prompt
+🔁 Iterative Prompter — average 53 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -110,7 +110,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 22:11:10 UTC
+ Last Updated on 15/09/2026 23:10:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
