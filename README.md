@@ -51,46 +51,22 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 3 hrs 36 mins       ██████████████░░░░░░░░░░░   54.02 % 
-Other                    1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-TypeScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Mermaid                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              6 hrs 33 mins       █████████████████████████   98.44 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Inferred-Edge-Platform   4 hrs 58 mins       ███████████████████░░░░░░   74.57 % 
-ie_technical             1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      6 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 36 mins (99.02%)
-
-✍️ 3,311 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,226,631 Input Tokens, 545,690 Output Tokens
-
-💵 $102.14 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 53 AI Prompts
-
-Sonnet                   1,807 lines         ██████████████░░░░░░░░░░░   54.41 % 
-Opus                     829 lines           ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Haiku                    685 lines           █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,040 characters per prompt
-🔁 Iterative Prompter — average 53 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +86,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 22:11:00 UTC
+ Last Updated on 16/09/2026 23:10:24 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
