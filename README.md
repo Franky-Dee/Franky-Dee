@@ -16,7 +16,7 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2026
+> 🏆 147 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,20 +27,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-🌃 Evening                610 commits         ████████████░░░░░░░░░░░░░   49.76 % 
-🌙 Night                  284 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+🌞 Morning                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+🌆 Daytime                174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌃 Evening                610 commits         ████████████░░░░░░░░░░░░░   49.71 % 
+🌙 Night                  285 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   327 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Tuesday                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Friday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Monday                   327 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Tuesday                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Friday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Sunday                   66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 
@@ -72,11 +72,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -86,7 +86,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Franky-Dee/Franky-Dee/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 23:10:39 UTC
+ Last Updated on 21/10/2026 00:29:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
